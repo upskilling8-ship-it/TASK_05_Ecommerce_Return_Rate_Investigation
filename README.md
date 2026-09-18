@@ -1,6 +1,5 @@
 # TASK_05_Ecommerce_Return_Rate_Investigation
 Analysis of e-commerce product return rates and associated factors.
-# TASK 05 - E-commerce Return Rate Investigation
 
 ## 1. Problem Statement
 
